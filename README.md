@@ -7,5 +7,3 @@
 **Технології:** C++ / Arduino Framework, PlatformIO, ESP32, HTML/CSS/JavaScript, LittleFS, REST API, MQTT.
 
 Передбачено двомовний вебінтерфейс (UA/EN) для налаштування, керування та моніторингу.
-
-**Розробник:** Олександр ТАНЬКОВ.
